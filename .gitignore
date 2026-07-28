@@ -1,9 +1,10 @@
 images/
+images.zip
+*.zip
 *.onnx
 *.onnx.data
 *.ckp
 checkpoints/
-submission.zip
 data.csv
 losses.png
 __pycache__/
